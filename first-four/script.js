@@ -67,7 +67,7 @@
 //     }
 // }
 
-// Project 4 JS
+// ******Project 4 JS*******
 
 const search = document.querySelector('.search');
 const btn = document.querySelector('.btn');
